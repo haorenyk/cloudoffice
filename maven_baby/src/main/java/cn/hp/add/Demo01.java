@@ -8,5 +8,6 @@ public static void main(String[] args) {
 	System.out.println("ooo o oo o");
 	System.out.println("ppppppppppppp");
 	System.out.println("hahahahahaah s");
+	
 }
 }
